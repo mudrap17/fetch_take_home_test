@@ -1,7 +1,7 @@
-# fetch_take_home_test
-Fetch SRE round 1
+# Fetch Take Home Test
+Task: Fetch SRE round 1 - test to get heartbeat data for webpages every 15 seconds
 
-Mudra Patel
+Author: Mudra Patel
 
 Commands to run the code:
 ```
